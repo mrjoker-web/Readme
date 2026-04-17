@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação Meu Nome é Mr Joker, sou um Blackhat e pentester. Crio tools para vos ajudar no vosso Pentest.<strong>sua stack</strong>.<br>
+  🖥️ Meu Nome é Mr Joker, sou um Blackhat e pentester. Crio tools para vos ajudar no vosso Pentest.<strong>sua stack</strong>.<br>
   Neste momento trabalho mas nao na área informática.
 </p>
 
@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: **Ainda nao tenho Ferramentas aqui.**
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Envie as dúvidas para meu email 📩 ⤵️
 </p>
 
 <p align="left">
