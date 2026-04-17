@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  🖥️ Meu Nome é Mr Joker, sou um Blackhat e pentester. Crio tools para vos ajudar no vosso Pentest.<strong>sua stack</strong>.<br>
+  🖥️ Meu Nome é Mr Joker, sou um Blackhat e pentester. Crio tools para vos ajudar no vosso Pentest.<strong>Fuck the system 🖥️☺️</strong>.<br>
   Neste momento trabalho mas nao na área informática.
 </p>
 
