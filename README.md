@@ -1,21 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="400px"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="380px"/>
 
-## 📊 GitHub Stats
+<h1>👨‍💻 Mr Joker</h1>
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrjoker-web&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjoker-web&layout=compact&theme=tokyonight"/>
-</p>
+> 🔐 Cybersecurity Enthusiast | Pentesting Tools Developer  
+> 🛡️ Criador da **Shadow Suite** — ferramentas open-source para reconnaissance e pentesting ético
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mrjoker-web&theme=tokyonight"/>
-</p>
-
-# 👨‍💻 Mr Joker
-
-> 🔐 Cybersecurity Enthusiast | Pentesting Tools Developer
-
----
+<br/>
 
 ## 🧠 Sobre mim
 
@@ -30,18 +20,54 @@ Desenvolvo ferramentas para **reconhecimento, análise e testes de segurança**.
 
 ## 🚀 Skills
 
-- 🐍 Python  
-- ☕ Java  
-- 🌐 HTML  
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-Script-black?style=for-the-badge&logo=gnubash)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
-## 🛠️ Tools & Projects
+## 🛠️ Shadow Suite — Tools & Projects
 
-🔍 **ShadowScan** — Recon Tool  
-🌐 **ShadowSub** — Subdomain Finder  
+> Um conjunto de ferramentas de recon encadeadas para pentesting ético.
 
-> Mais ferramentas em desenvolvimento...
+```
+ShadowSub   →  encontra subdomínios
+     ↓
+ShadowProbe →  verifica quais estão ativos
+     ↓
+ShadowScan  →  analisa portas e serviços
+```
+
+| Tool | Descrição | Status |
+|------|-----------|--------|
+| 🔍 [ShadowScan](https://github.com/mrjoker-web/ShadowScan-Tool) | Recon Tool — resolução de IP, scan de portas, headers HTTP | ✅ Active |
+| 🌐 [ShadowSub](https://github.com/mrjoker-web/ShadowSub) | Subdomain Finder — descoberta via wordlist com multi-threading | ✅ Active |
+| ⚡ [ShadowProbe](https://github.com/mrjoker-web/ShadowProbe) | HTTP/HTTPS Probe — verifica hosts ativos e extrai títulos | ✅ Active |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrjoker-web&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjoker-web&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mrjoker-web&theme=tokyonight"/>
+</p>
+
+---
+
+## 📌 Roadmap
+
+- [x] 🔍 Recon Tool (ShadowScan)
+- [x] 🌐 Subdomain Finder (ShadowSub)
+- [x] ⚡ HTTP Probe Tool (ShadowProbe)
+- [ ] 🚩 Banner Grabber
+- [ ] 🤖 Automação de Recon (Shadow CLI — suite unificada)
+- [ ] 📊 Dashboard de resultados
 
 ---
 
@@ -49,13 +75,13 @@ Desenvolvo ferramentas para **reconhecimento, análise e testes de segurança**.
 
 <p align="left">
   <a href="mailto:joker23@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -63,21 +89,12 @@ Desenvolvo ferramentas para **reconhecimento, análise e testes de segurança**.
 
 ## ⚠️ Disclaimer
 
-Este perfil pode conter ferramentas relacionadas com segurança ofensiva.  
-O uso deve ser feito **exclusivamente para fins educacionais e testes autorizados**.  
-
----
-
-## 📌 Roadmap
-
-- [x] Recon Tool (ShadowScan)  
-- [x] Subdomain Finder (ShadowSub)  
-- [ ] HTTP Probe Tool  
-- [ ] Banner Grabber  
-- [ ] Automação de Recon  
+> Este perfil contém ferramentas relacionadas com segurança ofensiva.  
+> O uso deve ser feito **exclusivamente para fins educacionais e testes em sistemas autorizados**.  
+> O autor não se responsabiliza pelo uso indevido de qualquer ferramenta disponibilizada.
 
 ---
 
 ## ⭐ Apoio
 
-Se gostares dos projetos, deixa uma ⭐ e acompanha a evolução 🚀
+Se gostares dos projetos, deixa uma ⭐ nos repos e acompanha a evolução! 🚀
