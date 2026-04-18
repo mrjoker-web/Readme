@@ -1,19 +1,19 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="400px"/>
 
 # 👨‍💻 Mr Joker
 
-> 🔐 Pentester | Security Enthusiast | Tool Developer
+> 🔐 Cybersecurity Enthusiast | Pentesting Tools Developer
 
 ---
 
 ## 🧠 Sobre mim
 
-🖥️ Olá, sou o **Mr Joker** — focado em **Cybersecurity e Pentesting**.  
-Crio ferramentas para testes de segurança e exploração controlada de sistemas.
+🖥️ Sou o **Mr Joker**, focado em **Cybersecurity e Pentesting**.  
+Desenvolvo ferramentas para **reconhecimento, análise e testes de segurança**.
 
-⚠️ Todo o conteúdo aqui é apenas para **fins educacionais e éticos**.
+⚠️ Todo o conteúdo é desenvolvido para **fins educacionais e ambientes autorizados**.
 
-📍 Atualmente trabalho fora da área de IT, mas estou a evoluir constantemente neste caminho.
+📍 Atualmente fora da área de IT, mas em constante evolução e aprendizagem.
 
 ---
 
@@ -27,27 +27,23 @@ Crio ferramentas para testes de segurança e exploração controlada de sistemas
 
 ## 🛠️ Tools & Projects
 
-🚧 Em desenvolvimento...
+🔍 **ShadowScan** — Recon Tool  
+🌐 **ShadowSub** — Subdomain Finder  
 
-> Em breve irei publicar ferramentas de pentest, automação e segurança.
+> Mais ferramentas em desenvolvimento...
 
 ---
 
 ## 📫 Contacto
 
-Se tiveres dúvidas, sugestões ou quiseres colaborar:
-
 <p align="left">
-  <a href="mailto:joker23@gmail.com" title="Gmail">
+  <a href="mailto:joker23@gmail.com">
     <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="#" title="LinkedIn">
+  <a href="#">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="#" title="Instagram">
+  <a href="#">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -56,22 +52,21 @@ Se tiveres dúvidas, sugestões ou quiseres colaborar:
 
 ## ⚠️ Disclaimer
 
-Este repositório pode conter ferramentas relacionadas com segurança ofensiva.  
-O uso indevido é da responsabilidade do utilizador.  
-Utiliza apenas em ambientes autorizados.
-Mr Joker pertence a LulzSec PT Team 
+Este perfil pode conter ferramentas relacionadas com segurança ofensiva.  
+O uso deve ser feito **exclusivamente para fins educacionais e testes autorizados**.  
 
 ---
 
 ## 📌 Roadmap
 
-- [ ] Publicar primeira tool de pentest  
-- [ ] Criar scripts de automação  
-- [ ] Documentação técnica detalhada  
-- [ ] Projetos open-source colaborativos  
+- [x] Recon Tool (ShadowScan)  
+- [x] Subdomain Finder (ShadowSub)  
+- [ ] HTTP Probe Tool  
+- [ ] Banner Grabber  
+- [ ] Automação de Recon  
 
 ---
 
 ## ⭐ Apoio
 
-Se gostares do projeto, deixa uma ⭐ no repositório.
+Se gostares dos projetos, deixa uma ⭐ e acompanha a evolução 🚀
