@@ -1,5 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="400px"/>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrjoker-web&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjoker-web&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mrjoker-web&theme=tokyonight"/>
+</p>
+
 # 👨‍💻 Mr Joker
 
 > 🔐 Cybersecurity Enthusiast | Pentesting Tools Developer
