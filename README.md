@@ -77,6 +77,9 @@ ShadowScan  →  analisa portas e serviços
   <a href="mailto:joker23@gmail.com">
     <img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://t.me/mr_joker78">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
