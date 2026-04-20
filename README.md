@@ -66,7 +66,7 @@ ShadowScan  →  analisa portas e serviços
 - [x] 🌐 Subdomain Finder (ShadowSub)
 - [x] ⚡ HTTP Probe Tool (ShadowProbe)
 - [x] 🚩 Banner Grabber
-- [ ] 🤖 Automação de Recon (Shadow CLI — suite unificada)
+- [x] 🤖 Automação de Recon (Shadow CLI — suite unificada)
 - [ ] 📊 Dashboard de resultados
 
 ---
