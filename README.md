@@ -176,3 +176,12 @@ $ echo "If it's authorized, it's fair game."
 ![Visitor Count](https://komarev.com/ghpvc/?username=mrjoker-web&color=f0c94d&style=flat-square&label=visitors)
 
 </div>
+
+---
+
+<h1 align="center">Good preparation ;)</h1>
+<p align="center">
+  <a href="https://media.tenor.com/ArV6RGIhAGkAAAAC/edgerunners-cyberpunk.gif">
+    <img src="https://media.tenor.com/ArV6RGIhAGkAAAAC/edgerunners-cyberpunk.gif"/>
+  </a>
+</p>
