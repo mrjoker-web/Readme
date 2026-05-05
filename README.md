@@ -31,6 +31,7 @@ $ cat /etc/mrjoker.conf
 
 [identity]
 alias       = Mr Joker
+Team:     =https://www.facebook.com/share/1D5oRshQ8D/
 role        = Cybersecurity Enthusiast & Pentesting Tools Developer
 focus       = Offensive Security · Ethical Hacking · Recon Automation
 location    = 🌍 Portugal
